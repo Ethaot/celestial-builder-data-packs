@@ -1,0 +1,17 @@
+body {
+	background-color: #282828;
+	color: #eeeeee;
+}
+h1 {
+	text-align: center;
+	color: #e8008c;
+}
+a {
+	color: #e8008c;
+}
+.iframe-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
